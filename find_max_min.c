@@ -1,5 +1,6 @@
 #include<stdio.h> 
-
+//anish deshmukh 
+//anish_03_
 int main(){
 
     int num[10];
